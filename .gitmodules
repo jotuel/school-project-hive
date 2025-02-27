@@ -1,0 +1,21 @@
+[submodule "fract-ol"]
+	path = fract-ol
+	url = ../fract-ol/
+[submodule "pipex"]
+	path = pipex
+	url = ../pipex/
+[submodule "minitalk"]
+	path = minitalk
+	url = ../minitalk
+[submodule "libft"]
+	path = libft
+	url = ../libft
+[submodule "printf"]
+	path = printf
+	url = ../printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = ../get_next_line/
+[submodule "push_swap"]
+	path = push_swap
+	url = ../push_swap/
