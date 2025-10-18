@@ -31,3 +31,6 @@
 [submodule "minirt"]
 	path = minirt
 	url = ../minirt/
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/jotuel/minishell.git
