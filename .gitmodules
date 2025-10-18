@@ -19,9 +19,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = ../push_swap/
-[submodule "minishell"]
-	path = minishell
-	url = ../minishell/
 [submodule "irc_hive"]
 	path = irc_hive
 	url = https://github.com/oliynykmax/irc_hive.git
@@ -31,3 +28,6 @@
 [submodule "inception"]
 	path = inception
 	url = ../inception
+[submodule "minirt"]
+	path = minirt
+	url = ../minirt/
