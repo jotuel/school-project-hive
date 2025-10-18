@@ -22,3 +22,12 @@
 [submodule "minishell"]
 	path = minishell
 	url = ../minishell/
+[submodule "irc_hive"]
+	path = irc_hive
+	url = https://github.com/oliynykmax/irc_hive.git
+[submodule "cpp-module"]
+	path = cpp-module
+	url = ../cpp-module
+[submodule "inception"]
+	path = inception
+	url = ../inception
