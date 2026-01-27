@@ -9,22 +9,22 @@ ft_printf:
 push_swap:
 	Sort using 8 different operations with a maximum allowed number for each input size.
 fractol:
-	Rendering fractals.
+	Rendering fractals. Mandelbrot & Julia set.
 pipex:
 	Execute arguments with pipes. Just preparation for minishell.
 minitalk:
 	Another minishell prep project but sending messages using signals.
 minishell:
-	A smaller version of bash.
+	Two person project: a small version of bash.
 philosophers:
 	5 diners 5 chopstick and you need 2 to eat. Classic threaded execution dilemma.
 minirt:
-	Raytracer with a few different shapes.
+	Two person project: raytracer with a few different primitives.
 cpp-modules:
-	Uterly useless OOP exercises.
+	OOP, templates, data types.
 inception:
 	Containerized WordPress with MariaDB and nginx.
 ft_transcendence:
-	Pong game made with React, Fastify, TailwindCSS and BabylonJS. 
+	 5 person group project: a game site made with Preact, Astro, TailwindCSS, BabylonJS and WebAssembly.
 ```
  
