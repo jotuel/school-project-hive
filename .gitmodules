@@ -36,4 +36,4 @@
 	url = https://github.com/jotuel/minishell.git
 [submodule "ft_transcendence"]
 	path = ft_transcendence
-	url = https://github.com/v-kuu/Ping-Pong-Fullstack-25.git
+	url = https://github.com/v-kuu/Ping-Pong-Fullstack-25
