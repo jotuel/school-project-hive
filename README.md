@@ -1,4 +1,4 @@
-# Monorepo of projects done as part of studies at *Hive Helsinki*.
+# Projects done as part of studies at *Hive Helsinki*
 
 ### Hackathons:
 | Project name | Description |
