@@ -27,7 +27,7 @@
 
 [planet_guardian]: https://github.com/EvAvKein/planet_guardian
 [HiveAudioHackathon]: https://github.com/Mursupaani/HiveAudioHackathon
-[libft]: libft/
+[libft]: libft
 [get_next_line]: ../get_next_line/
 [ft_printf]: ../ft_printf/
 [push_swap]: ../push_swap/
