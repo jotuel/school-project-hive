@@ -22,6 +22,6 @@
 | ***minirt*** | Two person project: raytracer with a few different primitives. |
 | ***cpp-modules**** | OOP, templates, data types. |
 | ***inception*** |	Containerized WordPress with MariaDB and nginx. |
-| ***ft_transcendence*** | 5 person group project: a game site made with Preact, Astro, TailwindCSS, BabylonJS and WebAssembly. |
+| ***ft_transcendence*** | 5 person group project a full stack game site. |
 
  
