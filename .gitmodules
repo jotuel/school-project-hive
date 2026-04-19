@@ -37,3 +37,9 @@
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = https://github.com/v-kuu/Ping-Pong-Fullstack-25
+[submodule "HiveAudioHackathon"]
+	path = HiveAudioHackathon
+	url = https://github.com/Mursupaani/HiveAudioHackathon
+[submodule "planet_guardian"]
+	path = planet_guardian
+	url = https://github.com/EvAvKein/planet_guardian
